@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk '/users__box__title/{found=1} found && /font-weight/{print NR\": \"$0; found=0}' /Users/kushbothra/Desktop/saveweb2zip-com-www-unboundxinc-com/index.html)",
+      "Bash(grep -v \"^$\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
