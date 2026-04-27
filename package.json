@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo 'static site, no build needed'"
+  },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-dialog": "^1.1.15",
